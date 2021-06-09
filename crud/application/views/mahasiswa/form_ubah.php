@@ -86,7 +86,7 @@ td {
                             </td>
                         </tr>
                         <tr>
-                            <td>Telepon</td>
+                            <td>Kontak</td>
                             <td><input class="form-control" type="text" name="input_kontak" value="<?php echo set_value('input_kontak', $mahasiswa->kontak); ?>"></td>
                         </tr>
                         <tr>
